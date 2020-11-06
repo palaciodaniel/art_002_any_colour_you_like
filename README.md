@@ -6,4 +6,4 @@
 
 #### 001. [Chess](https://nbviewer.jupyter.org/github/palaciodaniel/data_science_art_gallery/blob/main/001_chess/chess_figures.ipynb)
 
-#### 002. [Any Colour You Like](https://github.com/palaciodaniel/data_science_art_gallery/blob/main/002_any_colour_you_like/any_colour_you_like.ipynb)
+#### 002. [Any Colour You Like](https://nbviewer.jupyter.org/github/palaciodaniel/data_science_art_gallery/blob/main/002_any_colour_you_like/any_colour_you_like.ipynb)
